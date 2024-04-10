@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hey there! I'm Papa Yaw, an experienced software engineer specializing in creating scalable and user-friendly applications. My toolkit includes JavaScript, React, NextJs, Node.js, Java, and Spring. <br /> I collaborate closely with teams to ensure projects meet user needs while staying on time and within budget.<br /> I believe in about growth, constantly learning and staying up-to-date with the latest industry trends.<br />  In my current role as a Senior Engineer, I've built web experiences that handle high traffic, showcasing my ability to create reliable and high-performance systems.<br /> Quality is my priority, whether it's code, testing, or reviews. I believe in delivering bug-free, reliable software. Plus, my expertise in database design and API scalability has helped optimize application performance.<br /> I'm passionate about making a real impact on development projects, aligning them with both business goals and user needs.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,81 +11,179 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Agriconnect",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "\nThe Agriconnect Project is dedicated to enhancing students' learning experiences by providing educational content and supporting them with devices such as laptops and computer equipment. This initiative aims to prepare students for the world of work or entrepreneurship, making them more competitive.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/agriconnect/1.png",
+          "images/portfolio/agriconnect/2.png",
+          "images/portfolio/agriconnect/3.png",
+          "images/portfolio/agriconnect/4.png"
         ],
-        "url": "",
+        "url": "https://portal.agriconnectghana.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-redux-plain",
+            "name": "Redux"
           }
         ]
       },
       {
-        "title": "Photography",
+        "title": "LFC Matchcentre",
         "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "LFC Matchcentre is a dynamic web application tailored for passionate Liverpool FC fans, offering a comprehensive platform to stay updated with the latest team news and match developments. <br /> The project delivers real-time updates, including crucial match events like goals, offside calls, and other game-changing moments. Fans can also dive into detailed match statistics, providing a deeper insight into the team's performance.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/liverpool/1.png",
+          "images/portfolio/liverpool/2.png",
+          "images/portfolio/liverpool/3.png",
+          "images/portfolio/liverpool/4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://matchcentre.liverpoolfc.com/#",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Formula E Race Centre",
+        "startDate": "2018",
+        "description": "Formula E Race Centre is a project tailored for Formula E enthusiasts, offering a vibrant platform that combines a live blog with engaging games like predictors and quizzes. <br /> This dynamic hub is designed to keep fans updated with the latest races and news from the electrifying world of Formula E. The games add an interactive element, allowing fans to engage with the sport in a fun and immersive way.<br /> Whether it's following live race updates or participating in predictors to test their Formula E knowledge, this project aims to provide fans with a comprehensive and engaging Formula E experience.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/formula-e/1.png",
+          "images/portfolio/formula-e/2.png",
+          "images/portfolio/formula-e/3.png",
+          "images/portfolio/formula-e/4.png",
+          "images/portfolio/formula-e/5.png",
+          "images/portfolio/formula-e/6.png",
+          "images/portfolio/formula-e/7.png"
         ],
-        "url": "https://github.com",
+        "url": "https://www.fiaformulae.com/en/race-centre",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          }
+        ]
+      },
+      {
+        "title": "Spark",
+        "startDate": "2018",
+        "description": "Spark is an innovative conversational finance app that offers a wide range of features beyond expense tracking. It provides users with the ability to engage in conversational finance, send and receive money from friends, and participate in group contributions. <br /> The app's intuitive interface and conversational capabilities make managing personal and collaborative finances seamless and interactive. <br />I was lead backend engineer on this project.",
+        "images": [
+          "images/portfolio/spark/1.png"
+        ],
+        "url": "https://www.joinspark.app/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-prisma-plain",
+            "name": "Prisma"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "PayApp",
+        "startDate": "2018",
+        "description": "PayApp is a payments integration platform that enables external clients to seamlessly integrate payment functionalities into their applications. It serves as a bridge between applications and payment gateways, facilitating secure and efficient payment transactions. <br /> I was the sole backend engineer on this",
+        "images": [
+          "images/portfolio/payapp/1.png"
+        ],
+        "url": "https://www.rancard.com/payapp/",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Monterosa",
+        "title": "JavaScript Engineer",
+        "years": "2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "TypeScript",
+          "React",
+          "Next.js",
+          "Node.js"
         ],
         "technologies": [
           "REST API",

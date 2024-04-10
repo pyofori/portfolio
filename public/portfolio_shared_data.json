@@ -1,67 +1,83 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Papa Yaw Ofori-Afriyie",
+      "titles": [ "Full Stack Engineer", "Front-end Engineer", "Back-end Engineer"],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/papa-yaw-ofori/",
+          "class": "fab fa-linkedin"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Email",
+          "url": "mailto:pyofori@gmail.com",
+          "class": "fas fa-envelope"
+        },
+        {
+          "name": "Phone",
+          "url": "+233209390930",
+          "class": "fas fa-phone"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "100"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "Next.js",
+          "class": "devicon-nextjs-plain",
+          "level": "100"
         },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "100"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "100"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "100"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "100"
+        },
+        {
+          "name": "Spring",
+          "class": "devicon-spring-original",
           "level": "75"
         },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
+
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "100"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "100"
+        },
+        {
+          "name": "MongoDb",
+          "class": "devicon-mongodb-plain",
+          "level": "100"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
+          "level": "100"
         }
       ]
     }
