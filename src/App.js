@@ -51,7 +51,7 @@ class App extends Component {
 
   loadSharedData() {
     $.ajax({
-      url: `portfolio_shared_data.json`,
+      url: `/portfolio/portfolio_shared_data.json`,
       dataType: "json",
       cache: false,
       success: function (data) {
