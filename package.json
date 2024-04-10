@@ -1,6 +1,6 @@
 {
   "name": "pyofori",
-  "homepage": "https://github.com/pyofori/portfolio",
+  "homepage": "https://pyofori.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
